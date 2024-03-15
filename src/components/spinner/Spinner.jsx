@@ -9,7 +9,8 @@ const Spinner = ()=> {
             <div className="text-center">
                 <Image className="my-3" 
                         src='/images/loading.gif'
-                        alt="loading" 
+                        alt="loading"
+                        unoptimized={true}
                         width={20} height={20}
                 />
 

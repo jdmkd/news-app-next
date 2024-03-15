@@ -11,9 +11,6 @@ export default function Home() {
   return (
     <>
       <NavMain />
-      {/* <NavBar /> */}
-      <News />
-
     </>
   );
 }
